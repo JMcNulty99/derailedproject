@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Derailed.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\derailedproject\Derailed\Intermediate\Build\Win64\UE4Editor\Development\Derailed\Derailed.cpp.obj"
+"D:\derailedproject\Derailed\Intermediate\Build\Win64\UE4Editor\Development\Derailed\DerailedGameModeBase.cpp.obj"
+"D:\derailedproject\Derailed\Intermediate\Build\Win64\UE4Editor\Development\Derailed\Derailed.init.gen.cpp.obj"
+"D:\derailedproject\Derailed\Intermediate\Build\Win64\UE4Editor\Development\Derailed\DerailedGameModeBase.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Derailed\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\derailedproject\Derailed\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Derailed.lib"

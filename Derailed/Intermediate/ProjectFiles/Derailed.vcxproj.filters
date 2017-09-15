@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Derailed.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{4FF771F1-5D8B-433F-AB7F-3C2C8A323DAB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Derailed.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\DerailedEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{C6D50C08-DD3B-4511-AB79-858522110F15}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Derailed">
+			<UniqueIdentifier>{0DB0889B-9919-40ED-AB8E-E6BA76F373E6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Derailed\Derailed.Build.cs">
+			<Filter>Source\Derailed</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Derailed\Derailed.cpp">
+			<Filter>Source\Derailed</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Derailed\Derailed.h">
+			<Filter>Source\Derailed</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Derailed\DerailedGameModeBase.cpp">
+			<Filter>Source\Derailed</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Derailed\DerailedGameModeBase.h">
+			<Filter>Source\Derailed</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

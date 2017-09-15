@@ -1,0 +1,3 @@
+D:\derailedproject\Derailed\Source\Derailed\Derailed.Build.cs
+D:\derailedproject\Derailed\Source\Derailed.Target.cs
+D:\derailedproject\Derailed\Source\DerailedEditor.Target.cs
