@@ -7,3 +7,7 @@ TOOLS:
   Visual Studio 2017 (Community is all we need)</br>
   Github</br>
   Slack
+
+On EKU machines, we have access to:
+  Qixel Suite (yay)
+  xNormal
